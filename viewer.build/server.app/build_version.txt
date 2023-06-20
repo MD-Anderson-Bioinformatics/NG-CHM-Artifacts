@@ -1,2 +1,2 @@
-Build tag: 2.24.0-build-18
-Git hash: 8482080a6dc0adc6bf1e3ffd7a3d9bfd4f441448
+Build tag: 2.24.0-build-19
+Git hash: 69b34613fc2e98d44d38bef6716b3aef3b64ecba

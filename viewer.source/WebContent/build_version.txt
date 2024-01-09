@@ -1,2 +1,2 @@
-Build tag: 2.24.1-build-29
-Git hash: c2593c58af61210696124be03ed4c82cd8190d45
+Build tag: 2.24.3
+Git hash: 181d8692e9aa1d58b82d36bde1de9db5f5e2ac93

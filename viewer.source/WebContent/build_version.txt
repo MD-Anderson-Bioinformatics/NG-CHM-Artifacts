@@ -1,2 +1,2 @@
-Build tag: 2.25.0-build-42
-Git hash: 9bcb120b5adce8b7a7688296ebd4cb3e76718958
+Build tag: 2.25.0
+Git hash: ac1d2f9a2ff5f5643d79d2e0cfe8742d8aec73e5

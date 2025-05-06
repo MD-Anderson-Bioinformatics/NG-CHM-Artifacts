@@ -902,5 +902,5 @@ Z=document.createElement("a");ea(G,200,200,Z,function(u){Z.setAttribute("href",u
 1])},getLinkoutTypes:function(){return new Promise(M=>{NgChm.CUST.waitForPlugins(()=>{M(NgChm.CUST.linkoutTypes.slice(0))})})}};NgChm.createNS("NgChm.API",b);const r=NgChm.importNS("NgChm.UTIL"),m=NgChm.importNS("NgChm.MAPREP"),y=NgChm.importNS("NgChm.MMGR"),x=NgChm.importNS("NgChm.SUM"),p=NgChm.importNS("NgChm.Pane");NgChm.importNS("NgChm.DEV");const H=NgChm.importNS("NgChm.PDF"),N=NgChm.importNS("NgChm.LNK");NgChm.exportToNS("NgChm.API",{b64toBlob:r.b64toBlob,jsPDF:(...M)=>jspdf.jsPDF.apply(null,
 M),generatePDF:H.openPdfPrefs,chmResize:()=>p.resizeNGCHM()});Object.assign(r,b);document.getElementById("menuPng").onclick=function(M){ja(M.target)}})();
 document.body.addEventListener('click', NgChm.UHM.closeMenu,true);
-/* commit hash: d3996b4 */
-/* build tag: 2.25.0-build-44 */
+/* commit hash: 91eea95 */
+/* build tag: 2.25.0-build-45 */

@@ -1,2 +1,2 @@
-Build tag: 2.26.0-build-46
+Build tag: 2.26.0
 Git hash: 94ef640d5f9c2df6d864369323e095757a30df25

@@ -1,2 +1,2 @@
-Build tag: 2.27.0-build-60
+Build tag: 2.27.0
 Git hash: 3f462ad0fb3c1ba97e6c6ededdb77b21bf47baba

@@ -1008,4 +1008,4 @@ w=document.createElement("a");ba(c,200,200,w,function(D){w.setAttribute("href",D
 l),generatePDF:B.openPdfPrefs,chmResize:()=>n.resizeNGCHM()});Object.assign(O,a);document.getElementById("menuPng").onclick=function(l){la(l.target)}})();
 document.body.addEventListener('click', NgChm.UHM.closeMenu,true);
 /* commit hash: e95cecc */
-/* build tag: 2.27.1-build-61 */
+/* build tag: 2.27.1 */

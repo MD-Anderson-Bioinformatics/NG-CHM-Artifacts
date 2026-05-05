@@ -1,2 +1,2 @@
-Build tag: 2.27.1-build-61
+Build tag: 2.27.1
 Git hash: e95cecc91fdad37fde50447f0369f5e24c815963

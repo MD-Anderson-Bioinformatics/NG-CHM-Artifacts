@@ -22,4 +22,4 @@ docStyle:"margin: 1em 0 0 5%; width: 90%;",embedStyle:"display: flex; flex-direc
 customJS:"",expandable:!1,onload:null,ngChmOptions:{}},t={sourceType:"zip"};h.setParameters=function(a={}){Object.entries(a).forEach(([e,d])=>{k[e]=d})};h.setUpFrame=function(a){const e=window.frames[a];a=n[a];if(void 0==e.NgChm)console.error("NgChm not found on iframe");else{var d=e.NgChm.API||e.NgChm.UTIL;if(!e.NgChm.API)if(e.NgChm.UTIL)console.warn("Using deprecated NG-CHM widget interface. Please upgrade.");else{console.error("Cannot find NG-CHM widget interface");return}"blob"===a.srcType?d.embedCHM(a.srcSpec,
 a):"base64"===a.srcType?d.embedCHM(d.b64toBlob(a.srcSpec),a):"fileName"===a.srcType?d.embedCHM(a.srcSpec,a):"url"===a.srcType?d.embedCHM(a.srcSpec,a):alert("Unknown type of embedded NGCHM: "+a.srcType)}};window.embedNGCHM=h})();
 /* commit hash: d5f70cc */
- /* build tag: 2.27.2-build-62 */
+ /* build tag: 2.27.2 */
